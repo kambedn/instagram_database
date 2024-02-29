@@ -5,6 +5,9 @@ Additionally, within the project files, there exists a document named "instagram
 
 Database Schema (instagram_database_schema.sql):
 
+![image](https://github.com/kambedn/instagram_database/assets/117531956/8c804232-aa32-4d6a-9c98-ddefe269ae41)
+
+
 1. Users Table (users):
 - Contains information about users such as their unique ID, username, and the timestamp of when they were created.
 - The id field serves as the primary key, auto-incremented for each new user.
